@@ -2,7 +2,7 @@
 title: Záhořovo lože
 ---
 
-### I.
+I.
 
 > Šedivé mlhy nad lesem plynou,  
 > jako duchové vlekouce se řadem;  
@@ -45,7 +45,7 @@ title: Záhořovo lože
 > A tam již zachází v chrastině jedné:  
 > pánbůh ho posilň na jeho pouti!
 
-### II.
+II.
 
 > Daleké pole, široké pole,  
 > předlouhá cesta přes to pole běží,  
@@ -96,7 +96,7 @@ title: Záhořovo lože
 > Brzy potom zmizel v hustém lesa proutí:  
 > pánbůh ho potěš na jeho pouti!
 
-### III.
+III.
 
 > Stojí, stojí skála v hlubokém lese,  
 > podle ní cesta v habrovém houští,  
@@ -194,7 +194,7 @@ title: Záhořovo lože
 > „Přisahám na kříže svatého slávu,  
 > že ti z pekla věrnou přinesu zprávu!“
 
-### IV.
+IV.
 
 > Minula zima, sníh na horách taje,  
 > v údolích povodeň od sněhu a deště;  
@@ -373,7 +373,7 @@ title: Záhořovo lože
 > ten nepřichází, nevrací se k němu.  
 > Bůh budiž milostiv muži kajícnému!
 
-### V.
+V.
 
 > Devadesáte let přeletělo světem;  
 > mnoho se zvrátilo zatím od té chvíle:  

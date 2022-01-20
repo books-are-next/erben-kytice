@@ -2,7 +2,7 @@
 title: Zlatý kolovrat
 ---
 
-### I.
+I.
 
 > Okolo lesa pole lán,  
 > hoj jede, jede z lesa pán,  
@@ -40,7 +40,7 @@ title: Zlatý kolovrat
 > zejtra se s dcerou domů vrátí,  
 > vyšly do města.“
 
-### II.
+II.
 
 > Okolo lesa pole lán,  
 > hoj jede, jede zase pán;  
@@ -90,7 +90,7 @@ title: Zlatý kolovrat
 > provodíš dceru svou nevlastní  
 > na královský hrad!“
 
-### III.
+III.
 
 > „Vstávej, dceruško, již je čas,  
 > pan král již čeká, bude kvas:  
@@ -170,7 +170,7 @@ title: Zlatý kolovrat
 > hleď sobě pilně kolovrátku,  
 > pilně doma přeď!“
 
-### IV.
+IV.
 
 > V hluboké pusté křovině  
 > jak se tam vedlo dívčině?  
@@ -304,7 +304,7 @@ title: Zlatý kolovrat
 > však nikoho tu neviděla,  
 > než se samotnu.
 
-### V.
+V.
 
 > A když byly tři neděle,  
 > král jede z vojny vesele:  
@@ -360,7 +360,7 @@ title: Zlatý kolovrat
 > „Kdes, má Dorničko, kde jsi, kde jsi?  
 > Kdes, má rozmilá?“ —
 
-### VI.
+VI.
 
 > Od lesa k hradu polí lán,  
 > hoj jede, jede s paní pán;  
