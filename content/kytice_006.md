@@ -2,7 +2,7 @@
 title: Poklad
 ---
 
-### I.
+I.
 
 > Na pahorku mezi buky  
 > kostelíček s věží nízkou;  
@@ -306,7 +306,7 @@ title: Poklad
 > Nehodnatě štěstí byla,  
 > požehnání neužila.
 
-### II.
+II.
 
 > A když takto rozdrceně  
 > s bolestí tu ztrátu nese,  
@@ -384,7 +384,7 @@ title: Poklad
 > „Dítě drahé — drahé — drahé!“  
 > blízkými to hučí lesy.
 
-### III.
+III.
 
 > Mine den, i druhý mine,  
 > dnové v týden se obrátí,  
@@ -442,7 +442,7 @@ title: Poklad
 > úst k úsměchu nerozhřálo,  
 > stáleť ještě pláče vdova.
 
-### IV.
+IV.
 
 > A slyš, shůry mezi buky,  
 > z kostelíčka s věží nízkou,  
@@ -566,7 +566,7 @@ title: Poklad
 > žetě velmi málo zlato,  
 > avšak dítě nade všecko!
 
-### V.
+V.
 
 > Dávno kostelíček zbořen,  
 > umlkly již zvonka zvuky;  

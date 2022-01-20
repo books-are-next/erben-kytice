@@ -2,7 +2,7 @@
 title: Štědrý den
 ---
 
-### I.
+I.
 
 > Tma jako v hrobě, mráz v okna duje,  
 > v světnici teplo u kamen;  
@@ -32,7 +32,7 @@ title: Štědrý den
 > však jest adventu již nakrátku  
 > a přede dveřmi Štědrý den!“
 
-### II.
+II.
 
 > Hoj, ty Štědrý večere,  
 > ty tajemný svátku!  
@@ -79,7 +79,7 @@ title: Štědrý den
 > milému se podívám  
 > pevně okem v oko.
 
-### III.
+III.
 
 > Marie, Hana, dvě jména milá,  
 > panny jak jarní růže květ:  
@@ -131,7 +131,7 @@ title: Štědrý den
 > jsou to družičky, a mezi nimi —  
 > proboha! rakev — černý kříž!“
 
-### IV.
+IV.
 
 > Vlažný větřík laškuje  
 > po osení mladém:  
@@ -168,7 +168,7 @@ title: Štědrý den
 > uvadla, jak by podsečena kosou —  
 > ubohá Marie!
 
-### V.
+V.
 
 > Nastala zima, mráz v okna duje,  
 > v světnici teplo u kamen;  
