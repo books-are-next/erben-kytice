@@ -1,0 +1,328 @@
+{
+  "author": "Karel Jaromír Erben",
+  "identifier": "erben-kytice-c4c14b4",
+  "languagecode": "cs",
+  "modified": "2022-01-20T12:34:32.037Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Kytice",
+  "revision": "c4c14b4",
+  "generatedAt": {
+    "date": "Thu Jan 20 2022 12:44:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1642682665789
+  },
+  "documents": [
+    {
+      "title": "Kytice",
+      "file": "kytice_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "kytice_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kytice • Kytice",
+      "file": "kytice_005.html",
+      "words": 118,
+      "chars": 666,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 1,
+      "prev": "kytice_002.html",
+      "next": "kytice_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kytice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poklad • Kytice",
+      "file": "kytice_006.html",
+      "words": 2399,
+      "chars": 12456,
+      "ideas": 522,
+      "role": "chapter",
+      "order": 2,
+      "prev": "kytice_005.html",
+      "next": "kytice_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poklad",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svatební košile • Kytice",
+      "file": "kytice_007.html",
+      "words": 1515,
+      "chars": 7659,
+      "ideas": 306,
+      "role": "chapter",
+      "order": 3,
+      "prev": "kytice_006.html",
+      "next": "kytice_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svatební košile",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Polednice • Kytice",
+      "file": "kytice_008.html",
+      "words": 219,
+      "chars": 1151,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 4,
+      "prev": "kytice_007.html",
+      "next": "kytice_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Polednice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zlatý kolovrat • Kytice",
+      "file": "kytice_009.html",
+      "words": 1493,
+      "chars": 7801,
+      "ideas": 322,
+      "role": "chapter",
+      "order": 5,
+      "prev": "kytice_008.html",
+      "next": "kytice_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zlatý kolovrat",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Štědrý den • Kytice",
+      "file": "kytice_010.html",
+      "words": 705,
+      "chars": 3796,
+      "ideas": 165,
+      "role": "chapter",
+      "order": 6,
+      "prev": "kytice_009.html",
+      "next": "kytice_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Štědrý den",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Holoubek • Kytice",
+      "file": "kytice_011.html",
+      "words": 325,
+      "chars": 1794,
+      "ideas": 106,
+      "role": "chapter",
+      "order": 7,
+      "prev": "kytice_010.html",
+      "next": "kytice_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Holoubek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Záhořovo lože • Kytice",
+      "file": "kytice_012.html",
+      "words": 2812,
+      "chars": 15387,
+      "ideas": 455,
+      "role": "chapter",
+      "order": 8,
+      "prev": "kytice_011.html",
+      "next": "kytice_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Záhořovo lože",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vodník • Kytice",
+      "file": "kytice_013.html",
+      "words": 1005,
+      "chars": 5283,
+      "ideas": 245,
+      "role": "chapter",
+      "order": 9,
+      "prev": "kytice_012.html",
+      "next": "kytice_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vodník",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vrba • Kytice",
+      "file": "kytice_014.html",
+      "words": 521,
+      "chars": 2739,
+      "ideas": 115,
+      "role": "chapter",
+      "order": 10,
+      "prev": "kytice_013.html",
+      "next": "kytice_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vrba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lilie • Kytice",
+      "file": "kytice_015.html",
+      "words": 511,
+      "chars": 2676,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 11,
+      "prev": "kytice_014.html",
+      "next": "kytice_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lilie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dceřina kletba • Kytice",
+      "file": "kytice_016.html",
+      "words": 227,
+      "chars": 1231,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 12,
+      "prev": "kytice_015.html",
+      "next": "kytice_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dceřina kletba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Věštkyně (Úlomky) • Kytice",
+      "file": "kytice_017.html",
+      "words": 1129,
+      "chars": 6107,
+      "ideas": 219,
+      "role": "chapter",
+      "order": 13,
+      "prev": "kytice_016.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Věštkyně (Úlomky)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Kytice",
+      "file": "colophon.html",
+      "words": 137,
+      "chars": 900,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
+      "prev": "kytice_017.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 13121,
+      "chars": 69674,
+      "ideas": 2701
+    },
+    "chapters": {
+      "words": 12979,
+      "chars": 68746,
+      "ideas": 2675
+    }
+  }
+}
