@@ -20,7 +20,7 @@
       "hrAfter": "",
       "br": "",
       "brBefore": "",
-      "brAfter": "",
+      "brAfter": "MLP_text_bez1radku MLP_text_bez1radku_-0-12- MLP_text_bez1radku_-12-0-",
       "blockquote": "MLP_verse_-0-12- MLP_verse_-12-12- ",
       "figure": "",
       "em": "MLP_znak_kurziva_11b ",
@@ -237,7 +237,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Karel Jaromír Erben",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-20T14:56:11.741Z"
+      "modified": "2022-01-20T15:08:53.733Z"
     },
     "chapters": [
       {
@@ -413,6 +413,6 @@
       "user": "books-are-next",
       "repo": "erben-kytice"
     },
-    "generatedAt": 1642690572200
+    "generatedAt": 1642691334199
   }
 }
