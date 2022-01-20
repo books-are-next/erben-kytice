@@ -28,8 +28,48 @@ readingOrder:
   - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: kytice_005.html
+        title: Kytice
+        hiddenTitle: false
+      - link: kytice_006.html
+        title: Poklad
+        hiddenTitle: false
+      - link: kytice_007.html
+        title: Svatební košile
+        hiddenTitle: false
+      - link: kytice_008.html
+        title: Polednice
+        hiddenTitle: false
+      - link: kytice_009.html
+        title: Zlatý kolovrat
+        hiddenTitle: false
+      - link: kytice_010.html
+        title: Štědrý den
+        hiddenTitle: false
+      - link: kytice_011.html
+        title: Holoubek
+        hiddenTitle: false
+      - link: kytice_012.html
+        title: Záhořovo lože
+        hiddenTitle: false
+      - link: kytice_013.html
+        title: Vodník
+        hiddenTitle: false
+      - link: kytice_014.html
+        title: Vrba
+        hiddenTitle: false
+      - link: kytice_015.html
+        title: Lilie
+        hiddenTitle: false
+      - link: kytice_016.html
+        title: Dceřina kletba
+        hiddenTitle: false
+      - link: kytice_017.html
+        title: Věštkyně (Úlomky)
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

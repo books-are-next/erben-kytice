@@ -13,17 +13,17 @@
       "title": "MLP_uroven2_basne ",
       "subtitle": "",
       "h2": "",
-      "h3": "",
+      "h3": "MLP_uroven3_basne ",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
-      "brAfter": "",
+      "brBefore": "MLP_verse_-0-12- MLP_verse_-12-12- ",
+      "brAfter": "MLP_text_bez1radku MLP_text_bez1radku_-0-12- MLP_text_bez1radku_-12-0- ",
       "blockquote": "",
       "figure": "",
-      "em": "",
+      "em": "MLP_znak_kurziva_11b ",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -32,6 +32,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "kytice_001.md",
@@ -81,7 +82,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kytice"
           },
           {
             "filename": "kytice_006.md",
@@ -91,7 +93,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poklad"
           },
           {
             "filename": "kytice_007.md",
@@ -101,7 +104,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Svatební košile"
           },
           {
             "filename": "kytice_008.md",
@@ -111,7 +115,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Polednice"
           },
           {
             "filename": "kytice_009.md",
@@ -121,7 +126,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zlatý kolovrat"
           },
           {
             "filename": "kytice_010.md",
@@ -131,7 +137,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Štědrý den"
           },
           {
             "filename": "kytice_011.md",
@@ -141,7 +148,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Holoubek"
           },
           {
             "filename": "kytice_012.md",
@@ -151,7 +159,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Záhořovo lože"
           },
           {
             "filename": "kytice_013.md",
@@ -161,7 +170,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vodník"
           },
           {
             "filename": "kytice_014.md",
@@ -171,7 +181,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vrba"
           },
           {
             "filename": "kytice_015.md",
@@ -181,7 +192,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Lilie"
           },
           {
             "filename": "kytice_016.md",
@@ -191,7 +203,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dceřina kletba"
           },
           {
             "filename": "kytice_017.md",
@@ -201,7 +214,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Věštkyně (Úlomky)"
           },
           {
             "filename": "kytice_018.md",
@@ -223,7 +237,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Karel Jaromír Erben",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-20T12:43:27.708Z"
+      "modified": "2022-01-20T12:59:52.411Z"
     },
     "chapters": [
       {
@@ -399,6 +413,6 @@
       "user": "books-are-next",
       "repo": "erben-kytice"
     },
-    "generatedAt": 1642682608141
+    "generatedAt": 1642683592905
   }
 }
