@@ -2,7 +2,9 @@
 title: Poklad
 ---
 
-I.
+### I.
+
+  
 
 Na pahorku mezi buky  
 kostelíček s věží nízkou;  
@@ -13,15 +15,21 @@ tratící se v blízké stráně:
 dřevatě to rachot temný,  
 zvoucí lid do chrámu Páně.
 
+  
+
 A tu z vísky k boží slávě  
 vzhůru běží zástup hojný:  
 veský lid to bohabojný,  
 a dnes Velký pátek právě.
 
+  
+
 V chrámě truchlo: holé stěny;  
 oltář černá rouška kryje,  
 na roušce kříž upevněný;  
 v kůru zpívají pašije.
+
+  
 
 A hle, co se bělá v lese,  
 v černém lese za potokem?  
@@ -31,6 +39,8 @@ I jde rychlým žena krokem,
 svátečně jsouc oblečena,  
 tam tou strání za potokem —  
 pacholátko malé nese.
+
+  
 
 Běží žena, dolů běží,  
 pospíchá do chrámu Páně:  
@@ -60,6 +70,8 @@ oči rukou si protírá,
 o krok blíže se ubírá:  
 „Bože, jaká to tu změna!“
 
+  
+
 Tu, kde z divokého klestu,  
 od kostela tři sta kroků,  
 veliký čněl kámen v cestu,  
@@ -81,6 +93,8 @@ jako v noci svit měsíčka;
 i zaplává rudoskvěle  
 jak by západ to sluníčka.
 
+  
+
 I vidouc to žena žasne,  
 a ke vchodu až pokročí,  
 a zastíníc dlaní oči,  
@@ -92,6 +106,8 @@ o krok blíže se ubírá:
 Co to asi může býti?“  
 Dále jíti však se bojí  
 hledíc tam, a venku stojí.
+
+  
 
 A co váhá, a co stojí,  
 v klenbu patříc neustále,  
@@ -112,6 +128,8 @@ Vidí, vidí — co zde vidí,
 kdy to viděl který z lidí?  
 Tolik krásy, tolik blesku  
 mní uzříti jen v nebesku!
+
+  
 
 Dvéře tu jsou otevřeny  
 do nejskvělejšího sálu;  
@@ -134,6 +152,8 @@ a dokud tu poklad stane,
 plamenové nevyhasnou,  
 nic jich blesku neumoří.
 
+  
+
 Na prahu tu žena stojí,  
 celá stojí oslepena;  
 očí pozdvihnout se bojí,  
@@ -155,6 +175,8 @@ a já byla bych bohata,
 a byla bych nejšťastnější,  
 já i moje dítě tady!“
 
+  
+
 A co myslí, a co stojí,  
 ohroženější se stane;  
 svatým křížem se ozbrojí  
@@ -171,6 +193,8 @@ poklad ukázal mi v skrejši,
 chce, bych byla oblažena:  
 i zhřešiti bych musela,  
 bych jím pohrdnouti měla!“
+
+  
 
 Takto k sobě mluvíc žena,  
 chlapce na zem z ruky složí,  
@@ -191,6 +215,8 @@ vysypati zase štěstí
 nezdá se jí dobré býti;  
 obého pak nemůž nésti.
 
+  
+
 A hle, stříbro matka nese!  
 Dítě se tu na ni třese:  
 „Mama!“ volá, „mama, mama!“  
@@ -198,6 +224,8 @@ chytajíc ji ručinkama.
 „Mlč, synáčku! Mlč, mlč, hochu!  
 počkej tuto jenom trochu,  
 hned tu bude zase máma!“
+
+  
 
 A již běží, síní běží,  
 již i síně za ní leží;  
@@ -208,15 +236,21 @@ prázdná zpátky zas pospíchá;
 a ve potu, sotva dýchá,  
 stane zase již u cíle.
 
+  
+
 A jak vítr zlehka věje,  
 z kostela slyšeti pění:  
 v kůru tam se právě pěje  
 Krista Pána umučení.
 
+  
+
 A jak síní v jizbu spěje:  
 „Haha, mama! Haha, mama!“  
 radostně se dítě směje,  
 potleskujíc ručinkama.
+
+  
 
 Nedbátě však matka na to,  
 běžíc ve stranu protější:  
@@ -229,6 +263,8 @@ Klín již plný, sotva vstává —
 ještě v šátek sobě dává!  
 Ó jak jí tu srdce skáče,  
 jak je štěstí svému ráda!
+
+  
 
 A když zlato matka nese,  
 dítě se tu na ni třese,  
@@ -246,6 +282,8 @@ cincin! slyšíš, jak to cinká?“
 Avšak dítě stále pláče —  
 jí radostí srdce skáče.
 
+  
+
 A do klína opět sáhne,  
 plnou zlata hrst vytáhne,  
 vloží dítěti do klínka:  
@@ -257,6 +295,8 @@ hned se vrátí zas maminka.
 Hrej si pěkně, hrej, děťátko,  
 počkej ještě jen drobátko.“
 
+  
+
 A již běží, síní běží,  
 na dítě se neohlíží;  
 a již síně za ní leží,  
@@ -264,6 +304,8 @@ již se ku potoku blíží;
 přes potok, po stráni v plesu  
 drahý poklad nese k lesu,  
 a již stojí s ním před chýží.
+
+  
 
 „Hoj, ty chýže, sprostá chýže,  
 brzy měj se dobře tady!  
@@ -303,10 +345,14 @@ v šátku pak a ve svém klínu,
 místo zlata — samou hlínu!  
 Čáka všecka rozšlapána! — —
 
+  
+
 Nehodnatě štěstí byla,  
 požehnání neužila.
 
-II.
+### II.
+
+  
 
 A když takto rozdrceně  
 s bolestí tu ztrátu nese,  
@@ -317,6 +363,8 @@ vzkřikne, až se chýže třese:
 „Dítě drahé — drahé — drahé!“  
 zahučelo v hustém lese.
 
+  
+
 A ve hrozném předtušení  
 běží žena — ach neběží,  
 letí, letem ptáka letí,  
@@ -324,10 +372,14 @@ lesem, strání ji viděti,
 tam, kde klamné našla jmění,  
 k vršku, na němž kostel leží.
 
+  
+
 Od kostela větřík věje,  
 copak neslyšeti pění? —  
 Krista Pána umučení  
 v kůru tam se již nepěje.
+
+  
 
 A když přišla ke sklepení,  
 haha, jaké pohledění!  
@@ -337,6 +389,8 @@ veliký ční kámen v cestu!
 A kde síně? — Ta zmizela!  
 Zmizela, i v cestě skála,  
 jakby nikdy zde nestála.
+
+  
 
 Ha, jak se tu žena leká,  
 jak se děsí, volá, hledá!  
@@ -352,25 +406,35 @@ nohy trním probodané —
 darmo všecko klopotění,  
 vchodu již nalézti není!
 
+  
+
 A znovu se žena děsí,  
 úzkost hrozná ji uchvátí:  
 „Ach, kdo mně mé dítě vrátí!  
 Ach mé dítě, kde jsi, kde jsi?!“ —
+
+  
 
 „Tu pod zemí jsem, hluboko!“  
 hlas tichounký větrem šumí,  
 „nespatří mne žádné oko,  
 ucho mi neporozumí.
 
+  
+
 Blaze tu pod zemí, blaze,  
 beze jídla, beze pití,  
 na mramorové podlaze,  
 ryzí zlato v klínku míti!
 
+  
+
 Noc a den se nestřídají,  
 nikdy nejdou spát očinka:  
 hraji si tu pěkně, hraji —  
 cin cin! slyšíš, jak to cinká?“
+
+  
 
 Avšak žena znovu hledá —  
 darmo, a znovu se děsí,  
@@ -378,18 +442,24 @@ zoufale se na zem vrhá,
 vlasy sobě z hlavy trhá,  
 zkrvavena, na smrt bledá:
 
+  
+
 „Ach běda mi! běda, běda!  
 Ach mé dítě, kde jsi, kde jsi?  
 kde tě najdu, dítě drahé?!“  
 „Dítě drahé — drahé — drahé!“  
 blízkými to hučí lesy.
 
-III.
+### III.
+
+  
 
 Mine den, i druhý mine,  
 dnové v týden se obrátí,  
 z týdnů měsíc se vyvine,  
 až i léto počne pláti.
+
+  
 
 Na pahorku mezi buky  
 kostelíček s věží nízkou;  
@@ -399,6 +469,8 @@ Tu nahoře, když se z rána
 ke mši zvonečkem pozvoní,  
 přede stánkem nebes pána  
 zbožný rolník čelo kloní.
+
+  
 
 Aj, kdo zná ji, tu osobu  
 se sklopenou k zemi tváří?  
@@ -421,6 +493,8 @@ a do dlaně čelo sklopí:
 „Ach mé dítě!“ — a již oko  
 v slzách kanoucích se topí.
 
+  
+
 Nešťastná to z chýže žena,  
 vždycky smutná, vždycky bledá,  
 vždycky těžce zamyšlena:  
@@ -433,6 +507,8 @@ traplivé opouští lože:
 Ach běda mi! běda, běda!  
 odpusť, milostivý bože!“
 
+  
+
 Uplynulo léto celé,  
 jeseň, zima uplynula —  
 nezmírněno v srdci žele,  
@@ -442,7 +518,9 @@ rozehřávši zemi znova:
 úst k úsměchu nerozhřálo,  
 stáleť ještě pláče vdova.
 
-IV.
+### IV.
+
+  
 
 A slyš, shůry mezi buky,  
 z kostelíčka s věží nízkou,  
@@ -453,10 +531,14 @@ běží z vísky zástup hojný,
 veský lid to bohabojný —  
 a dnes Velký pátek právě.
 
+  
+
 Jemně jarní větřík věje,  
 větrem pak slyšeti pění:  
 v kostele se zase pěje  
 Krista Pána umučení.
+
+  
 
 A tou strání ku potoku  
 žena od lesa se blíží.  
@@ -465,6 +547,8 @@ Ach, památka dne a roku
 hořem kroky její tíží!  
 Blíží, blíží se znenáhla,  
 a již skály té dosáhla.
+
+  
 
 A hle, co se jeví oku?  
 Tu, kde z divokého klestu,  
@@ -475,6 +559,8 @@ kámen v cestu postavený,
 kámen i ta celá skála,  
 jak by tak od věků stála.
 
+  
+
 A žena se toho leká,  
 hrůzou se jí vlasy ježí:  
 celou tíží na ní leží  
@@ -483,6 +569,8 @@ I děsí se — však nečeká,
 a ve strachu a v naději  
 skokem síní známou běží,  
 síní jdoucí pode skálu.
+
+  
 
 A hle, dvéře otevřeny  
 do nejskvělejšího sálu;  
@@ -497,6 +585,8 @@ lunou oheň vzhůru plane,
 nade zlatem po pravici  
 sluncem pláti nepřestane.
 
+  
+
 A žena se s hrůzou blíží  
 a ve strachu a v naději  
 tu po jizbě se ohlíží.  
@@ -507,11 +597,15 @@ Ejhle dítě, dítě její,
 po celý rok oplakané,  
 potleskuje ručinkama!
 
+  
+
 Ale v ženě není dechu,  
 a hrůzou se celá třese,  
 a ve zoufanlivém spěchu  
 chopíc dítě do náručí,  
 dlouhou síní odtud nese.
+
+  
 
 A třesk, třesk! huhu! to hučí  
 jí v patách ve vrchu klíně;  
@@ -522,6 +616,8 @@ jí v patách se boří síně!
 v úzkosti tu volá žena,  
 zpět pohlédnouc poděšena.
 
+  
+
 A hle! jaká zase změna!  
 Ticho všecko, a tu z klestu  
 veliký ční kámen v cestu;  
@@ -529,6 +625,8 @@ vše jak jindy spořádáno,
 po vchodu památky není:  
 právě nyní dozpíváno  
 Krista Pána umučení.
+
+  
 
 Ale v ženě není dechu,  
 a hrůzou se celá třese,  
@@ -543,6 +641,8 @@ tam tou strání blíže lesu,
 a ve strachu a ve plesu  
 stane v chudé lesní chýži.
 
+  
+
 Ó jaké tu vzdává vroucí  
 bohu svému žena díky!  
 Vizte slzy ty kanoucí!  
@@ -551,11 +651,15 @@ líbá čelo, ručky, rtíky,
 a zas k ňadrám je přitiská,  
 jak celá v rozkoši plyne!
 
+  
+
 A hle, co se v klínku blýská?  
 Co to znělo? — Ryzí zlato!  
 To zlato, jež loni byla,  
 aby dítě si pohrálo,  
 jemu v klínek položila.
+
+  
 
 Avšak ženu vábí málo,  
 co ji tolik hoře stálo!  
@@ -566,17 +670,23 @@ Hořceť zakusila toho:
 žetě velmi málo zlato,  
 avšak dítě nade všecko!
 
-V.
+### V.
+
+  
 
 Dávno kostelíček zbořen,  
 umlkly již zvonka zvuky;  
 a kde někdy stály buky,  
 sotva jaký hnije kořen.
 
+  
+
 Stařec mnoho pamatuje,  
 mnohoť i dozrálo hrobu:  
 avšak lid si ukazuje  
 ještě místa po tu dobu.
+
+  
 
 A když večer pohromadě  
 mládež za mrazu sedává,  

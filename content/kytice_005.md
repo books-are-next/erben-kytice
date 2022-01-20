@@ -2,30 +2,42 @@
 title: Kytice
 ---
 
+  
+
 Zemřela matka a do hrobu dána,  
 siroty po ní zůstaly;  
 i přicházely každičkého rána  
 a matičku svou hledaly.
+
+  
 
 I zželelo se matce milých dítek;  
 duše její se vrátila,  
 a vtělila se v drobnolistý kvítek,  
 jímž mohylu svou pokryla.
 
+  
+
 Poznaly dítky matičku po dechu,  
 poznaly ji a plesaly;  
 a prostý kvítek, v něm majíc útěchu,  
 mateřídouškou nazvaly. —
+
+  
 
 Mateřídouško vlasti naší milé,  
 vy prosté naše pověsti!  
 natrhal jsem tě na dávné mohyle —  
 komu mám tebe přinésti?
 
+  
+
 Ve skrovnou já tě kytici zavážu,  
 ozdobně stužkou ovinu;  
 do širých zemí cestu ti ukážu,  
 kde příbuznou máš rodinu.
+
+  
 
 Snad že se najde dcera mateřina,  
 jíž mile dech tvůj zavoní;  
