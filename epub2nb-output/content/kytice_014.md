@@ -1,5 +1,6 @@
 ---
 title: Vrba
+contentType: prose
 ---
 
 > Ráno sedá ke snídani,  

@@ -1,5 +1,6 @@
 ---
 title: Holoubek
+contentType: prose
 ---
 
 > Okolo hřbitova  

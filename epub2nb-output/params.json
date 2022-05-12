@@ -48,7 +48,7 @@
             "filename": "kytice_002.md",
             "xhtml": "kytice_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -237,7 +237,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Karel Jaromír Erben",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-20T15:18:01.404Z"
+      "modified": "2020-12-22T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -413,6 +413,6 @@
       "user": "books-are-next",
       "repo": "erben-kytice"
     },
-    "generatedAt": 1642691881861
+    "generatedAt": 1652351406457
   }
 }

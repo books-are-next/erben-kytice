@@ -1,20 +1,39 @@
 {
-  "author": "Karel Jaromír Erben",
-  "identifier": "erben-kytice-e5e6eee",
-  "languagecode": "cs",
-  "modified": "2022-01-20T12:34:32.037Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Kytice",
-  "revision": "e5e6eee",
+  "author": "Karel Jaromír Erben",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "erben-kytice-45a612b",
+  "revision": "45a612b",
+  "readingOrder": [
+    "promo.html",
+    "kytice_005.html",
+    "kytice_006.html",
+    "kytice_007.html",
+    "kytice_008.html",
+    "kytice_009.html",
+    "kytice_010.html",
+    "kytice_011.html",
+    "kytice_012.html",
+    "kytice_013.html",
+    "kytice_014.html",
+    "kytice_015.html",
+    "kytice_016.html",
+    "kytice_017.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Jan 20 2022 15:18:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1642691937072
+    "date": "Thu May 12 2022 10:38:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351897664
   },
   "documents": [
     {
-      "title": "Kytice",
-      "file": "kytice_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -22,25 +41,17 @@
       "order": 0,
       "prev": null,
       "next": "kytice_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Kytice • Kytice",
+      "title": "Kytice",
       "file": "kytice_005.html",
       "words": 118,
       "chars": 666,
       "ideas": 25,
       "role": "chapter",
       "order": 1,
-      "prev": "kytice_002.html",
+      "prev": "promo.html",
       "next": "kytice_006.html",
       "toc": [
         {
@@ -53,7 +64,7 @@
       ]
     },
     {
-      "title": "Poklad • Kytice",
+      "title": "Poklad",
       "file": "kytice_006.html",
       "words": 2399,
       "chars": 12456,
@@ -73,7 +84,7 @@
       ]
     },
     {
-      "title": "Svatební košile • Kytice",
+      "title": "Svatební košile",
       "file": "kytice_007.html",
       "words": 1515,
       "chars": 7659,
@@ -93,7 +104,7 @@
       ]
     },
     {
-      "title": "Polednice • Kytice",
+      "title": "Polednice",
       "file": "kytice_008.html",
       "words": 219,
       "chars": 1151,
@@ -113,7 +124,7 @@
       ]
     },
     {
-      "title": "Zlatý kolovrat • Kytice",
+      "title": "Zlatý kolovrat",
       "file": "kytice_009.html",
       "words": 1493,
       "chars": 7801,
@@ -133,7 +144,7 @@
       ]
     },
     {
-      "title": "Štědrý den • Kytice",
+      "title": "Štědrý den",
       "file": "kytice_010.html",
       "words": 705,
       "chars": 3796,
@@ -153,7 +164,7 @@
       ]
     },
     {
-      "title": "Holoubek • Kytice",
+      "title": "Holoubek",
       "file": "kytice_011.html",
       "words": 325,
       "chars": 1794,
@@ -173,7 +184,7 @@
       ]
     },
     {
-      "title": "Záhořovo lože • Kytice",
+      "title": "Záhořovo lože",
       "file": "kytice_012.html",
       "words": 2812,
       "chars": 15387,
@@ -193,7 +204,7 @@
       ]
     },
     {
-      "title": "Vodník • Kytice",
+      "title": "Vodník",
       "file": "kytice_013.html",
       "words": 1005,
       "chars": 5283,
@@ -213,7 +224,7 @@
       ]
     },
     {
-      "title": "Vrba • Kytice",
+      "title": "Vrba",
       "file": "kytice_014.html",
       "words": 521,
       "chars": 2739,
@@ -233,7 +244,7 @@
       ]
     },
     {
-      "title": "Lilie • Kytice",
+      "title": "Lilie",
       "file": "kytice_015.html",
       "words": 511,
       "chars": 2676,
@@ -253,7 +264,7 @@
       ]
     },
     {
-      "title": "Dceřina kletba • Kytice",
+      "title": "Dceřina kletba",
       "file": "kytice_016.html",
       "words": 227,
       "chars": 1231,
@@ -273,7 +284,7 @@
       ]
     },
     {
-      "title": "Věštkyně (Úlomky) • Kytice",
+      "title": "Věštkyně (Úlomky)",
       "file": "kytice_017.html",
       "words": 1129,
       "chars": 6107,
@@ -293,11 +304,11 @@
       ]
     },
     {
-      "title": "Tiráž • Kytice",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 86,
-      "chars": 591,
-      "ideas": 12,
+      "words": 75,
+      "chars": 522,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "kytice_017.html",
@@ -315,9 +326,9 @@
   ],
   "totals": {
     "all": {
-      "words": 13070,
-      "chars": 69365,
-      "ideas": 2690
+      "words": 13059,
+      "chars": 69296,
+      "ideas": 2685
     },
     "chapters": {
       "words": 12979,

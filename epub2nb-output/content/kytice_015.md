@@ -1,5 +1,6 @@
 ---
 title: Lilie
+contentType: prose
 ---
 
 > Umřela panna v době jarních let,  
