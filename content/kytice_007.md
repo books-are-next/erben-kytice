@@ -1,5 +1,6 @@
 ---
 title: Svatební košile
+contentType: prose
 ---
 
 > Již jedenáctá odbila,  

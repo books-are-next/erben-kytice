@@ -1,5 +1,6 @@
 ---
 title: Poklad
+contentType: prose
 ---
 
 I.

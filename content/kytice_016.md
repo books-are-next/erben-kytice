@@ -1,5 +1,6 @@
 ---
 title: Dceřina kletba
+contentType: prose
 ---
 
 > Což jsi se tak zasmušila,  

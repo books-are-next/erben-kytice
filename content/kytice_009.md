@@ -1,5 +1,6 @@
 ---
 title: Zlatý kolovrat
+contentType: prose
 ---
 
 I.

@@ -1,5 +1,6 @@
 ---
 title: Kytice
+contentType: prose
 ---
 
 > Zemřela matka a do hrobu dána,  

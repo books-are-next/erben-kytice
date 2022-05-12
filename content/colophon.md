@@ -2,17 +2,6 @@
 title: Tiráž
 ---
 
-***
-
-Kytice
-
-z pověstí národních
-
-Karel Jaromír Erben
-
-
-***
-
 Znění tohoto textu vychází z díla [Kytice](https://aleph.nkp.cz/F/?func=direct&doc_number=000042630&local_base=CNB) tak, jak bylo vydáno nakladatelstvím Československý spisovatel v Praze v roce 1988. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ![](../Images/image003.jpg)
@@ -26,9 +15,3 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
   
 
 ![](../Images/image004.jpg)
-
-
-***
-
-Karel Jaromír Erben  
-Kytice

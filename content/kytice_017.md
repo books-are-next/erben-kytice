@@ -1,5 +1,6 @@
 ---
 title: Věštkyně (Úlomky)
+contentType: prose
 ---
 
 > Když oko vaše slzou se zaleje,  

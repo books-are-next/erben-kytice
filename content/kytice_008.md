@@ -1,5 +1,6 @@
 ---
 title: Polednice
+contentType: prose
 ---
 
 > U lavice dítě stálo,  

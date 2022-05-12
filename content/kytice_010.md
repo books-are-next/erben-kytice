@@ -1,5 +1,6 @@
 ---
 title: Štědrý den
+contentType: prose
 ---
 
 I.

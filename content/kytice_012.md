@@ -1,5 +1,6 @@
 ---
 title: Záhořovo lože
+contentType: prose
 ---
 
 I.

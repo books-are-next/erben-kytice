@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Kytice
@@ -11,7 +12,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
 readingOrder:
-  - kytice_002.html
+  - promo.html
   - kytice_005.html
   - kytice_006.html
   - kytice_007.html
