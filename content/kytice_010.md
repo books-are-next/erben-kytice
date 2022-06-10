@@ -3,6 +3,8 @@ title: Štědrý den
 contentType: prose
 ---
 
+<section>
+
 I.
 
 > Tma jako v hrobě, mráz v okna duje,  
@@ -209,3 +211,5 @@ V.
 > před sebou čirou temnotu,  
 > nežli budoucnost odhaliti,  
 > strašlivou poznati jistotu!
+
+</section>

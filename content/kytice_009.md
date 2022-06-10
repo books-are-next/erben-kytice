@@ -3,6 +3,8 @@ title: Zlatý kolovrat
 contentType: prose
 ---
 
+<section>
+
 I.
 
 > Okolo lesa pole lán,  
@@ -392,3 +394,5 @@ VI.
 > Jen do třetice zahrát přišel,  
 > pak ho již nikdo neuslyšel,  
 > ani nespatřil.
+
+</section>

@@ -3,6 +3,8 @@ title: Poklad
 contentType: prose
 ---
 
+<section>
+
 I.
 
 > Na pahorku mezi buky  
@@ -583,3 +585,5 @@ V.
 > mládež za mrazu sedává,  
 > rád stařeček povídává  
 > o vdově a o pokladě.
+
+</section>

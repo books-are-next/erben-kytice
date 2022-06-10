@@ -3,6 +3,8 @@ title: Věštkyně (Úlomky)
 contentType: prose
 ---
 
+<section>
+
 > Když oko vaše slzou se zaleje,  
 > když na vás těžký padne čas,  
 > tehda přináším větvici naděje,  
@@ -279,3 +281,5 @@ contentType: prose
 > S nadějí nic se nenoste,  
 > leč nad tím břichem vřelé srdce znova  
 > a pravá hlava naroste!
+
+</section>

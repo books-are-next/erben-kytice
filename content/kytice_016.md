@@ -3,6 +3,8 @@ title: Dceřina kletba
 contentType: prose
 ---
 
+<section>
+
 > Což jsi se tak zasmušila,  
 > dcero má?  
 > což jsi se tak zasmušila?  
@@ -74,3 +76,5 @@ contentType: prose
 > kletbu zůstavuji tobě,  
 > bys nenašla místa v hrobě,  
 > žes mi zvůli dávala!“
+
+</section>
