@@ -3,6 +3,8 @@ title: Polednice
 contentType: prose
 ---
 
+<section>
+
 > U lavice dítě stálo,  
 > z plna hrdla křičelo.  
 > „Bodejž jsi jen trochu málo,  
@@ -62,3 +64,5 @@ contentType: prose
 > k ňadrám dítě přimknuté:  
 > matku vzkřísil ještě stěží,  
 > avšak dítě — zalknuté.
+
+</section>

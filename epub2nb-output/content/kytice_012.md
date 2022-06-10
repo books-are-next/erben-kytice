@@ -3,6 +3,8 @@ title: Záhořovo lože
 contentType: prose
 ---
 
+<section>
+
 I.
 
 > Šedivé mlhy nad lesem plynou,  
@@ -529,3 +531,5 @@ V.
 > vznášejí se dvě holubice bílé;  
 > v radostném plesu vznášejí se vzhůru,  
 > až i se vznesly k andělskému kůru.
+
+</section>

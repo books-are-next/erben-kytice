@@ -2,6 +2,8 @@
 title: Tiráž
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Kytice](https://aleph.nkp.cz/F/?func=direct&doc_number=000042630&local_base=CNB) tak, jak bylo vydáno nakladatelstvím Československý spisovatel v Praze v roce 1988. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ![](../Images/image003.jpg)
@@ -12,6 +14,10 @@ Text díla (Karel Jaromír Erben: Kytice), publikovaného [Městskou knihovnou�
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
-  
+</section>
+
+<section>
 
 ![](../Images/image004.jpg)
+
+</section>

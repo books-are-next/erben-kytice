@@ -3,6 +3,8 @@ title: Kytice
 contentType: prose
 ---
 
+<section>
+
 > Zemřela matka a do hrobu dána,  
 > siroty po ní zůstaly;  
 > i přicházely každičkého rána  
@@ -32,3 +34,5 @@ contentType: prose
 > jíž mile dech tvůj zavoní;  
 > snad že i najdeš některého syna,  
 > jenž k tobě srdce nakloní!
+
+</section>

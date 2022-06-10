@@ -3,6 +3,8 @@ title: Svatební košile
 contentType: prose
 ---
 
+<section>
+
 > Již jedenáctá odbila,  
 > a lampa ještě svítila,  
 > a lampa ještě hořela,  
@@ -377,3 +379,5 @@ contentType: prose
 > zle bysi byla skonala:  
 > tvé tělo bílé, spanilé,  
 > bylo by co ty košile!
+
+</section>

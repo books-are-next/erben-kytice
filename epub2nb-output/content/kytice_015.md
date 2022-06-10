@@ -3,6 +3,8 @@ title: Lilie
 contentType: prose
 ---
 
+<section>
+
 > Umřela panna v době jarních let,  
 > jako když uschne mladé růže květ;  
 > umřela panna, růže v poupěti —  
@@ -107,3 +109,5 @@ contentType: prose
 > čím ublížila tobě žena má?  
 > Otrávila jsi žití mého květ:  
 > bodejž i tobě zčernal boží svět!“
+
+</section>
