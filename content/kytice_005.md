@@ -1,6 +1,6 @@
 ---
 title: Kytice
-contentType: prose
+contentType: poetry
 ---
 
 <section>

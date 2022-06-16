@@ -1,6 +1,6 @@
 ---
 title: Štědrý den
-contentType: prose
+contentType: poetry
 ---
 
 <section>

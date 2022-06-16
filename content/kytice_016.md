@@ -1,6 +1,6 @@
 ---
 title: Dceřina kletba
-contentType: prose
+contentType: poetry
 ---
 
 <section>

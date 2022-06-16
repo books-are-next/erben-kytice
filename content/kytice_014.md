@@ -1,6 +1,6 @@
 ---
 title: Vrba
-contentType: prose
+contentType: poetry
 ---
 
 <section>

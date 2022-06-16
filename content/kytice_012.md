@@ -1,6 +1,6 @@
 ---
 title: Záhořovo lože
-contentType: prose
+contentType: poetry
 ---
 
 <section>

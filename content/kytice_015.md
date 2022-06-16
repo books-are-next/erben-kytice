@@ -1,6 +1,6 @@
 ---
 title: Lilie
-contentType: prose
+contentType: poetry
 ---
 
 <section>
