@@ -1,6 +1,6 @@
 ---
 title: Zlatý kolovrat
-contentType: prose
+contentType: poetry
 ---
 
 <section>

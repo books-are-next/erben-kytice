@@ -1,6 +1,6 @@
 ---
 title: Holoubek
-contentType: prose
+contentType: poetry
 ---
 
 <section>

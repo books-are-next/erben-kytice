@@ -1,6 +1,6 @@
 ---
 title: Svatební košile
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -11,6 +11,8 @@ meta:
   modified: '2022-01-20T12:34:32.037Z'
   languageCode: cs
   publisherShort: mkp
+  contentType: poetry
+  edition: poezie
 readingOrder:
   - promo.html
   - kytice_005.html

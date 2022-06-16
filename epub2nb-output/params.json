@@ -7,7 +7,9 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-01-20T12:34:32.037Z",
       "languageCode": "cs",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "contentType": "poetry",
+      "edition": "poezie"
     },
     "elements": {
       "title": "MLP_uroven2_basne ",
@@ -413,6 +415,6 @@
       "user": "books-are-next",
       "repo": "erben-kytice"
     },
-    "generatedAt": 1655271199861
+    "generatedAt": 1655364133832
   }
 }

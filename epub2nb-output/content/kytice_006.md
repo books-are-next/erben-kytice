@@ -1,6 +1,6 @@
 ---
 title: Poklad
-contentType: prose
+contentType: poetry
 ---
 
 <section>

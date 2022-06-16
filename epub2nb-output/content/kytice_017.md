@@ -1,6 +1,6 @@
 ---
 title: Věštkyně (Úlomky)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
