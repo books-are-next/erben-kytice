@@ -28,7 +28,7 @@ readingOrder:
   - kytice_015.html
   - kytice_016.html
   - kytice_017.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

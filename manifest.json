@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "erben-kytice-965cc48",
-  "revision": "965cc48",
+  "identifier": "erben-kytice-879fc01",
+  "revision": "879fc01",
   "readingOrder": [
     "promo.html",
     "kytice_005.html",
@@ -25,11 +25,11 @@
     "kytice_015.html",
     "kytice_016.html",
     "kytice_017.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:00:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978452951
+    "date": "Thu Jul 07 2022 08:22:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182151826
   },
   "documents": [
     {
@@ -293,7 +293,7 @@
       "role": "chapter",
       "order": 13,
       "prev": "kytice_016.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -306,11 +306,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 90,
       "chars": 635,
       "ideas": 8,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "kytice_017.html",
       "next": null,
