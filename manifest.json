@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "erben-kytice-fffa5a8",
-  "revision": "fffa5a8",
+  "identifier": "erben-kytice-a982d55",
+  "revision": "a982d55",
   "readingOrder": [
     "promo.html",
     "kytice_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:55:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417314605
+    "date": "Fri Oct 21 2022 11:30:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666351842309
   },
   "documents": [
     {
